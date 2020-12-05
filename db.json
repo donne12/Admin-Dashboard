@@ -1,0 +1,25 @@
+{
+  "Commandes": [
+    {
+      "id": "1",
+      "Numéro du client": "97585000",
+      "Contenu": "Pain et mayonnaise",
+      "Loccalisation": "Agoè",
+      "Date": "10-01-2020"
+    }
+  ],
+  "Clients": [
+    {
+      "id": "1",
+      "Nom": "John Smith",
+      "Unité": "1000",
+      "E-mail": "john@example.com"
+    },
+    {
+      "id": "2",
+      "Nom": "Donné Koffi",
+      "Unité": "5000",
+      "E-mail": "ewilfried6@gmail.com"
+    }
+  ]
+}
